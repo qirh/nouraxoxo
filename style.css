@@ -1,0 +1,17 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+html, body {
+  height: 100%;
+}
+div, img {
+    margin-top: 2rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+img {
+    width: auto;
+    height: auto;
+    max-width: 400px;
+    max-height: 400px;
+}
